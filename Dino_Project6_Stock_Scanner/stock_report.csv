@@ -1,0 +1,35 @@
+# generated_at=2026-02-19T18:20:01.595892
+# run_timestamp=20260219_182001
+Symbol,Price,Status,SMA Trend,EMA Condition,SMA 200,EMA 50,EMA 125
+XLF,52.15,NEUTRAL/MIXED,Neutral (Below & Rising),Weak Bullish (50 > 125 & Not Rising),52.54,53.52,53.08
+XLE,55.18,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),44.2,49.39,46.54
+XLI,176.34,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),152.24,164.88,157.66
+XLU,46.11,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),42.35,43.72,43.06
+XLV,157.26,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),142.23,154.99,149.78
+XLP,87.67,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),79.63,82.97,80.6
+XLY,116.24,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),114.82,119.44,117.61
+XLC,115.14,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),111.07,116.15,113.89
+XLK,140.21,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),134.95,143.06,139.97
+XLRE,43.2,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),40.96,41.55,41.12
+AVGO,333.99,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),314.03,339.07,331.11
+GOOG,303.56,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),245.55,315.95,286.56
+MNST,81.99,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),68.31,78.6,73.33
+CRM,185.29,BEAR MARKET,Bearish (Below & Falling),Bearish (50 < 125),249.23,221.73,238.21
+META,644.78,NEUTRAL/MIXED,Neutral (Below & Rising),Bearish (50 < 125),689.16,659.88,668.61
+LLY,1023.22,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),863.61,1030.19,960.73
+V,318.93,BEAR MARKET,Bearish (Below & Falling),Bearish (50 < 125),342.88,331.63,336.05
+ADBE,259.21,BEAR MARKET,Bearish (Below & Falling),Bearish (50 < 125),350.26,300.77,327.92
+NOW,107.37,BEAR MARKET,Bearish (Below & Falling),Bearish (50 < 125),174.41,131.09,153.33
+MAGS,61.59,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),60.38,64.35,62.98
+SMH,410.2,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),320.68,387.36,355.37
+SPY,684.48,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),647.94,685.11,668.83
+QQQ,603.47,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),582.09,613.88,600.99
+VOO,629.53,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),595.72,630.04,615.01
+TQQQ,48.83,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),47.36,52.38,50.75
+QCOM,141.27,NEUTRAL/MIXED,Neutral (Below & Rising),Bearish (50 < 125),159.7,156.34,160.85
+PLTR,134.89,NEUTRAL/MIXED,Neutral (Below & Rising),Bearish (50 < 125),160.98,158.91,162.28
+MSFT,398.46,BEAR MARKET,Bearish (Below & Falling),Bearish (50 < 125),486.1,447.21,468.83
+SMCI,32.16,BEAR MARKET,Bearish (Below & Falling),Bearish (50 < 125),41.67,32.48,36.76
+AAPL,260.58,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),240.4,264.82,257.01
+TSLA,411.71,BULL MARKET,Bullish (Above & Rising),Weak Bullish (50 > 125 & Not Rising),387.08,429.96,415.86
+NVDA,187.9,BULL MARKET,Bullish (Above & Rising),Bullish (50 > 125 & Rising),172.79,185.2,179.9
